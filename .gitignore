@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.log
+backend/logs/*
+.DS_Store
+__pycache__/
+*.pyc
+data/*.db
+.workbuddy/
